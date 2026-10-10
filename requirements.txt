@@ -1,0 +1,8 @@
+numpy
+matplotlib
+scipy
+h5py
+awkward
+vector
+jupyterlab
+ipykernel

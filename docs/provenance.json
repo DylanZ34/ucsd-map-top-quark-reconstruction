@@ -1,0 +1,12 @@
+[
+  {
+    "source": "Downloads/sigma_values_Dylan.ipynb",
+    "destination": "notebooks/top_quark_mass_fits.ipynb",
+    "source_sha256": "a37aaccbf67288c8e708021bdabec122c7362dc3bb607111c4464aeb71cfe714"
+  },
+  {
+    "source": "Downloads/sigma_values_Dylan_backup.ipynb",
+    "destination": "notebooks/top_quark_pt_selection_experiment.ipynb",
+    "source_sha256": "481b1cec0423493d50ff7b4efbeb42813f1a082ad47a3083bebcec99e1cf923a"
+  }
+]
